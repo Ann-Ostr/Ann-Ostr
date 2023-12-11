@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 Меня зовут Аня Острицкая. Завершила очередное обучение в сфере Python разработки. Теперь в копилке моих навыков: Python, Django, DRF, SQL, PostgreSQL, Git, Docker.
 
 <br />
-
 <br />
-
 My tg @I_Magnolia
 
 

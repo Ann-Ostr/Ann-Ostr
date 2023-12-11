@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <br />
 My tg @I_Magnolia
 <br />
+My email: oann@inbox.ru
 <br />
   
 **Languages and Tools:**  

@@ -5,6 +5,7 @@
 <!--
 **Ann-Ostr/Ann-Ostr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,6 +24,8 @@ Here are some ideas to get you started:
 
 Меня зовут Аня Острицкая. Завершила очередное обучение в сфере Python разработки. Теперь в копилке моих навыков: Python, Django, DRF, SQL, PostgreSQL, Git, Docker.
 
+
+My tg @I_Magnolia
 <br />
 
   
